@@ -1,6 +1,6 @@
-# Data-Structure-2021
+### Class Registration System
 
-Includes: 
+1. Coding in Java 
 
 1. Common Data Structures Implementation (both for practice and for things done in my spare time)
 
