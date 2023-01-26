@@ -16,7 +16,7 @@ This project is a Java-based class registration system. It allows users to regis
 
  1. Download the source code from the repository.  
 
- 2. Create a database in MySQL with the name `class_registration`.  
+ 2. Create a database in MySQL with the name `Class-Registration-System`.  
 
  3. Import the `class_registration.sql` file into the database. This will create all of the necessary tables and data needed for the application to run properly.  
 
@@ -24,4 +24,4 @@ This project is a Java-based class registration system. It allows users to regis
 
  5. Build and deploy the application onto Tomcat server and start it up.  
 
- 6. Access the application at `http://localhost:8080/class_registration/`.
+ 6. Access the application at `http://localhost:8080/Class-Registration-System/`.
